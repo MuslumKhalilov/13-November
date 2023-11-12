@@ -1,0 +1,21 @@
+.body {background-color: black; 
+  /* background: url('') center/cover repeat-y; */
+    min-height: 100vh;
+}
+.card-text, .card-title, .btn {
+    color: white; 
+  }
+.btn{background-color:blueviolet}
+.card-title{font-weight: bold;}
+
+  .nav2 {
+    text-align: center;
+    padding: 10px;
+  }
+
+  .pagination {
+    display: flex;
+    list-style: none;
+    padding: 0;
+    justify-content: center;
+  }
